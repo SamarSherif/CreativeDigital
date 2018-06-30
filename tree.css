@@ -1,0 +1,147 @@
+body{
+	font-family: "Ubuntu";
+}
+.Nav{
+	background-color: white;
+	text-transform: uppercase;
+	margin: 0;
+	border-radius: 0;
+
+}
+.navbar-default .navbar-brand{
+	color: #3a3a3a;
+	font-weight: 800;
+}
+#navIcon{
+	color:#7ae570;
+	margin-right:5px;
+}
+
+#upperDiv{
+	background-image: url("imgs/desk2.jpg");
+	width: 100%;
+	background-size: cover;
+	margin: 0;
+}
+
+.divAlpha{
+	background-color: rgba(0,0,0,0.7);
+	padding: 100px 50px;
+}
+.div{
+	text-align: center;
+}
+
+.upperH1{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.p{
+	margin-top: 20px;
+	color: #a5a5a5;
+	text-align: center;
+}
+
+#divButton{
+	margin-top: 30px;
+	border-radius: 20px;
+}
+
+.part2Div{
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+
+.part2H1{
+	color: black;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.tablesDiv{
+}
+
+.iconSize{
+	font-size: 40px;
+	color: black;
+}
+
+.tablesH1{
+	color: black;
+	font-weight: bold;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+.tablesP{
+		color: #a5a5a5;
+
+}
+
+.part3Div{
+	margin-top: 40px;
+}
+
+.imgDiv{
+		background-image: url("imgs/sea.jpg");
+
+}
+
+.h2{
+	color: white;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+.part3P{
+	color: #a5a5a5;
+}
+
+.part3Span{
+	color: #7ae570;
+}
+
+ul{
+	list-style: none;
+	padding-left: 0;
+	margin-top: 20px;
+
+}
+
+.ulSpan{
+	font-size: 18px;
+	margin-right: 10px;
+	height: 30px;
+
+}
+
+.li{
+	color: #a5a5a5;
+	height: 30px;
+
+	
+}
+
+.bottomDiv{
+	margin-bottom: 50px;
+	margin-top: 40px;
+}
+
+.bottomH2{
+	color: #3a3a3a;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+}
+
+.bottomP{
+	color: #a5a5a5;
+	text-align: center;
+}
